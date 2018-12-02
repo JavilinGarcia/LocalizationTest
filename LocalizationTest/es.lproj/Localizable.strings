@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizationTest
+
+  Created by Javier Garcia Castro on 21/3/18.
+  Copyright © 2018 Javier Garcia Castro. All rights reserved.
+*/
+
+"welcome" = "Bienvenido!";
